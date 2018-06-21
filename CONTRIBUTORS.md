@@ -7,3 +7,4 @@
 - [@stefananlam](https://github.com/stefananlam)
 - [@ashokvitugit](https://github.com/ashokvitugit)
 - [@Hailot33](https://github.com/Hailot33)
+- [@Balalon](https://github.com/Balalon)
